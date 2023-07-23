@@ -7,13 +7,13 @@
 <a href="https://www.linkedin.com/in/mrsohelcse/">
   <img align="left" alt="Sohel's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
 </a>
-<a href="https://github.com/mr-sohel">
+<a href="https://github.com/rayhanosd">
   <img align="left" alt="Sohel's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
 </a>
-<a href="https://instagram.com/ig_sohelrana/">
+<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2Fsaifislamrayhan75%3Figshid%3DMzNlNGNkZWQ4Mg%253D%253D%26fbclid%3DIwAR0a0HGfA20zosRj-sz99piIrOramWG94sD-FZCOjvRh09kYxTjTyaPL76M&h=AT2lFRm7Xs-QCIIAaXdd9DCLoJkwbMYHN-pzZxbYhqfO22bUuVHX7NM-LmrMlxHc4B4evQRsr8qOmmc0e1-9pu0_V6jafykXEAibTZAKWTelXIf0tOsD1CWWm6t1IQ
   <img align="left" alt="Sohel's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
-<a href="https://www.facebook.com/mrsohelcse/">
+<a https://www.facebook.com/profile.php?id=100033872381608&mibextid=ZbWKwL>
   <img align="left" alt="Sohel's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" />
 </a>
 <br/>
@@ -25,9 +25,7 @@
 - ⚡ Fun fact: I often play video games.
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mr-sohel&show_icons=true&hide=contribs,prs&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sohel&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 **Languages and Tools:**
 
